@@ -321,3 +321,7 @@ Cada proyecto en JavaScript puede enfocarse como un paquete npm con su propia in
   }
 
 
+```
+
+Con eslint, prettier, ncc, jest no necesariamente instalados como ejecutables globales sino como locales de tu proyecto dentro de node_modules/.bin/.
+
