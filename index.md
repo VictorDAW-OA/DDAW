@@ -9,4 +9,4 @@ Bienvenido a la página de recursos de despliegue de aplicaciones web. Aquí pue
 - [Ejercicios python Tasks](ejercicios_python/tasks.md)
 - [Ejercicios python pokemon](ejercicios_python/pokemon.md)
 - [Context manager](ejercicios_python/context.md)
-- [examen tema2](https://docs.google.com/forms/d/e/1FAIpQLSe1Z-IauzBz1bPkZ7VynTRv99RH2zk9Dvlo0uV1W7KTeBbStg/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLSeRKc1eQHrQRUQP8tPUdS3Yr05L10vs5VPtLUH-KDooAARnnA/viewform?usp=sf_link)
+- [examen tema2](https://docs.google.com/forms/d/e/1FAIpQLSeRKc1eQHrQRUQP8tPUdS3Yr05L10vs5VPtLUH-KDooAARnnA/viewform?usp=sf_link)
